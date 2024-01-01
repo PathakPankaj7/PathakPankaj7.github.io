@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: 
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# About me
+
 I am Pankaj Pathak, PhD candidate in Electrical Engineering department at [Indian Institute of Technology (IIT) Delhi](https://www.iitd.ac.in/), working in the [Interdisciplinary Microsystems Lab (IML)](https://sites.google.com/site/dhimanmallick) led by [Prof. Dhiman Mallick](https://ee.iitd.ac.in/faculty-profile/49). 
 
