@@ -11,7 +11,7 @@ title                    : "Pankaj's Homepage"
 title_separator          : "-"
 name                     : &name "Pankaj Pathak"
 description              : &description "personal description"
-url                      : https://github.com/PathakPankaj7/pathak.github.io
+url                      : https://pathak.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pathak.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=OeCwgzkAAAAJ&hl=en"
   email            : "pankaj.pathak112@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/Pankaj-Pathak-8"
+  researchgate     : "https://www.researchgate.net/profile/Pankaj-Pathak-8"
   uri              :
   bitbucket        :
   codepen          :
