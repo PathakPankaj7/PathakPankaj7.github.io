@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Research Interests"
+    url: /portfolio/
+    
   - title: "Publications"
     url: /publications/
 
@@ -9,9 +12,6 @@ main:
   - title: "Awards and Honours"
     url: /teaching/    
     
-  - title: "Research Interests"
-    url: /portfolio/
-        
   - title: "Affiliated Socities"
     url: /year-archive/
     
