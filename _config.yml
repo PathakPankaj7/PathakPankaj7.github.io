@@ -11,7 +11,7 @@ title                    : "Pankaj's Homepage"
 title_separator          : "-"
 name                     : &name "Pankaj Pathak"
 description              : &description "personal description"
-url                      : https://pathak.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://github.com/PathakPankaj7/pathak.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Pankaj Pathak"
-  avatar           : ""
+  avatar           : "My.jpg"
   bio              : "Ph.D. Scholar at IIT Delhi"
   location         : "New Delhi, India"
   employer         : "Indian Institute of Technology Delhi"
