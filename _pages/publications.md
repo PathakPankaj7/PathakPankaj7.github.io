@@ -7,7 +7,7 @@ author_profile: true
 
 ## Journal Publications
 
-J5) **Pankaj Pathak**, Ajay Kumar, and Dhiman Mallick. "*Light-induced ferromagnetic resonance shift in magnetoelectric heterostructure.*" [**Physical Review Applied**](https://doi.org/10.1103/PhysRevApplied.20.044055) 20, no. 4 (2023): 044055.
+<span style="color: #87CEEB;">J5</span>) **Pankaj Pathak**, Ajay Kumar, and Dhiman Mallick. "*Light-induced ferromagnetic resonance shift in magnetoelectric heterostructure.*" [**Physical Review Applied**](https://doi.org/10.1103/PhysRevApplied.20.044055) 20, no. 4 (2023): 044055.
 
 J4) **Pankaj Pathak**, Vinit Kumar Yadav, Samaresh Das, and Dhiman Mallick. "*Infrared-driven pyroelectric effect in magnetoelectric sensor for suspended on-chip magnetic nanoparticles quantification.*" [**Applied Physics Letters**](https://doi.org/10.1063/5.0141048) 122, no. 10 (2023).
 
