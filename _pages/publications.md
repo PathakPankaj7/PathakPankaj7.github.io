@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Journal Publications
+## <span style="color:skyblue;">Journal Publications</span>
 
 (J5) **Pankaj Pathak**, Ajay Kumar, and Dhiman Mallick. "*Light-induced ferromagnetic resonance shift in magnetoelectric heterostructure.*" [**Physical Review Applied**](https://doi.org/10.1103/PhysRevApplied.20.044055) 20, no. 4 (2023): 044055.
 
