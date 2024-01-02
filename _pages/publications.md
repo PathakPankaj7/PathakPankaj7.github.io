@@ -18,7 +18,7 @@ author_profile: true
 (J1) **Pankaj Pathak**, and Dhiman Mallick. "*Size-dependent magnetization switching in magnetoelectric heterostructures for self-biased MRAM applications.*" [**IEEE Transactions on Electron Devices**](https://doi.org/10.1109/TED.2021.3088079) 68, no. 9 (2021): 4418-4424.
 
 
-## Conference Publications
+## <span style="color:skyblue;">Conference Publications</span>
 
 (C1) **Pankaj Pathak**, Vinit K. Yadav, Samaresh Das, and Dhiman Mallick. "*Quantitative Assessment of Captured Magnetic Nanoparticles Using Self-Powered Magnetoelectric Platform for Biological Applications.*" In [**2023 IEEE 36th International Conference on Micro Electro Mechanical Systems (MEMS)**](https://doi.org/10.1109/MEMS49605.2023.10052508), pp. 1033-1036. IEEE, 2023.
 
