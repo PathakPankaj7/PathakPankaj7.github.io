@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pankaj's Website"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Pankaj Pathak"
 description              : &description "personal description"
