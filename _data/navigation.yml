@@ -12,8 +12,8 @@ main:
   - title: "Awards and Honours"
     url: /teaching/    
     
--  title: "Affiliated Socities"
-   url: /year-archive/
+#-  title: "Affiliated Socities"
+  # url: /year-archive/
     
  # - title: "CV"
    # url: /cv/
