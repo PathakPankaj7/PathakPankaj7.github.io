@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Journal Publications
+## Journal Publications (As a Lead Author)
 
 (J5) **Pankaj Pathak**, Ajay Kumar, and Dhiman Mallick. "*Light-induced ferromagnetic resonance shift in magnetoelectric heterostructure.*" [**Physical Review Applied**](https://doi.org/10.1103/PhysRevApplied.20.044055) 20, no. 4 (2023): 044055.
 
@@ -17,6 +17,10 @@ author_profile: true
 
 (J1) **Pankaj Pathak**, and Dhiman Mallick. "*Size-dependent magnetization switching in magnetoelectric heterostructures for self-biased MRAM applications.*" [**IEEE Transactions on Electron Devices**](https://doi.org/10.1109/TED.2021.3088079) 68, no. 9 (2021): 4418-4424.
 
-## Conference Publications
+## Journal Publications (As a Coauthor)
+
+## Conference Publications (As a Lead Author)
 
 (C1) **Pankaj Pathak**, Vinit K. Yadav, Samaresh Das, and Dhiman Mallick. "*Quantitative Assessment of Captured Magnetic Nanoparticles Using Self-Powered Magnetoelectric Platform for Biological Applications.*" In [**2023 IEEE 36th International Conference on Micro Electro Mechanical Systems (MEMS)**](https://doi.org/10.1109/MEMS49605.2023.10052508), pp. 1033-1036. IEEE, 2023.
+
+## Conference Publications (As a Coauthor) 
