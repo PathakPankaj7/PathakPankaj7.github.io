@@ -20,4 +20,4 @@ author_profile: true
 
 ## Conference Publications
 
-(C1) **Pankaj Pathak**, Vinit K. Yadav, Samaresh Das, and Dhiman Mallick. "*Quantitative Assessment of Captured Magnetic Nanoparticles Using Self-Powered Magnetoelectric Platform for Biological Applications.*" In [**2023 IEEE 36th International Conference on Micro Electro Mechanical Systems (MEMS)**](https://doi.org/10.1109/MEMS49605.2023.10052508), pp. 1033-1036. IEEE, 2023.
+(C1) **Pankaj Pathak**, Vinit Kumar Yadav, Samaresh Das, and Dhiman Mallick. "*Quantitative Assessment of Captured Magnetic Nanoparticles Using Self-Powered Magnetoelectric Platform for Biological Applications.*" In [**2023 IEEE 36th International Conference on Micro Electro Mechanical Systems (MEMS)**](https://doi.org/10.1109/MEMS49605.2023.10052508), pp. 1033-1036. IEEE, 2023.
