@@ -14,8 +14,9 @@ My current research interest is primarily focused on magnetism and magnetoelectr
 
 I am also an active member of various professional organizations, including the [IEEE Magnetic Society](https://ieeemagnetics.org/), [IEEE Young Professionals](https://yp.ieee.org/), [Students in Magnetisms (SiM)](https://www.studentsinmagnetism.org/), [European Magnetism Association](https://magnetism.eu/85-ema.htm),and [American Physical Society](https://www.aps.org/).
 
-I am married to Shivangi. She is an amazing artist, and we have many of her paintings in our home. She loves to write poems and short stories, and many of them have already been published. She is currently an assistant professor at Shubharti University in Meerut. Apparently, she finished her Ph.D. before me, haha. We both love cats and have two cats at our house named Odin and Dora.
+I am incredibly fortunate to be married to Shivangi, an exceptionally talented artist whose stunning paintings adorn our home. Beyond her artistic prowess, Shivangi has a gift for writing enchanting poems and captivating short stories, many of which have been published. She currently excels as an assistant professor at Shubharti University in Meerut, having impressively completed her Ph.D. ahead of me, even though she started after me.
 
+Our shared love for cats brings even more joy into our lives, with our two beloved feline companions, Odin and Dora, adding to the warmth and charm of our home. Every day with Shivangi and our furry friends is a beautiful blend of creativity, love, and inspiration.
 
 
 
