@@ -14,7 +14,9 @@ My current research interest is primarily focused on magnetism and magnetoelectr
 
 I am also an active member of various professional organizations, including the [IEEE Magnetic Society](https://ieeemagnetics.org/), [IEEE Young Professionals](https://yp.ieee.org/), [Students in Magnetisms (SiM)](https://www.studentsinmagnetism.org/), [European Magnetism Association](https://magnetism.eu/85-ema.htm),and [American Physical Society](https://www.aps.org/).
 
-Outside of my research, I enjoy watching documentaries mostly related to history, politics and economics.
+I am married to the most beautiful girl in the world, Shivangi. She is a physical education instructor and teaches at Shubharti University. Outside of my research, I enjoy spending time with her watching films and going on trips, especially to hill areas.
+
+
 
 
 
