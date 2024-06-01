@@ -22,6 +22,6 @@ author_profile: true
 
 
 ## Conference Publications
-(C1) **Pankaj Pathak**, Ajay Kumar, and Dhiman Mallick. "*Light-Induced Static and Dynamic Magnetization Modulation in Magnetoelectric Heterostructure for Beyond-CMOS Devices.*" In [**8th IEEE Electron Devices Technology & Manufacturing Conference (EDTM)**](https://ieeexplore.ieee.org/abstract/document/10512272), pp. 1-3. IEEE, 2024.
+(C2) **Pankaj Pathak**, Ajay Kumar, and Dhiman Mallick. "*Light-Induced Static and Dynamic Magnetization Modulation in Magnetoelectric Heterostructure for Beyond-CMOS Devices.*" In [**8th IEEE Electron Devices Technology & Manufacturing Conference (EDTM)**](https://ieeexplore.ieee.org/abstract/document/10512272), pp. 1-3. IEEE, 2024.
 
-(C2) **Pankaj Pathak**, Vinit Kumar Yadav, Samaresh Das, and Dhiman Mallick. "*Quantitative Assessment of Captured Magnetic Nanoparticles Using Self-Powered Magnetoelectric Platform for Biological Applications.*" In [**IEEE 36th International Conference on Micro Electro Mechanical Systems (MEMS)**](https://doi.org/10.1109/MEMS49605.2023.10052508), pp. 1033-1036. IEEE, 2023.
+(C1) **Pankaj Pathak**, Vinit Kumar Yadav, Samaresh Das, and Dhiman Mallick. "*Quantitative Assessment of Captured Magnetic Nanoparticles Using Self-Powered Magnetoelectric Platform for Biological Applications.*" In [**IEEE 36th International Conference on Micro Electro Mechanical Systems (MEMS)**](https://doi.org/10.1109/MEMS49605.2023.10052508), pp. 1033-1036. IEEE, 2023.
