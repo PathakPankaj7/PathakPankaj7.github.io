@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Journal Publications
+(J8) Dibyajyoti Mukherjee, Shalini Singh, Nadeem Tariq Beigh, Sourav Naval, **Pankaj Pathak**, Ankur Goswami, and Dhiman Mallick. "*A Metglas Based Magneto-Triboelectric Energy Harvesting Device for Biomedical Applications.*" [**IEEE Sensors Journal**](https://ieeexplore.ieee.org/document/10638456) (2024).
+
 (J7) **Pankaj Pathak**, Ajay Kumar, and Dhiman Mallick. "*Photo-strain induced magnetoresistance modulation in magnetoelectric heterostructure-based devices.*" [**Applied Physics Letters**](https://pubs.aip.org/aip/apl/article/124/11/112401/3270349/Photo-strain-induced-magnetoresistance-modulation) 124, no. 11 (2024).
 
 (J6) Vinit Kumar Yadav, **Pankaj Pathak**, Preetha Ganguly, Prashant Mishra, Samaresh Das, Dhiman Mallick. "*Infrared-Driven Rapid Quantification of Magnetophoretically Trapped Drug.*"[**IEEE Journal of Microelectromechanical Systems (Letters)**](https://ieeexplore.ieee.org/abstract/document/10444513) (2024)
