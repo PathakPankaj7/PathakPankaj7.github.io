@@ -10,7 +10,7 @@ author_profile: true
 
 (J7) **Pankaj Pathak**, Ajay Kumar, and Dhiman Mallick. "*Photo-strain induced magnetoresistance modulation in magnetoelectric heterostructure-based devices.*" [**Applied Physics Letters**](https://pubs.aip.org/aip/apl/article/124/11/112401/3270349/Photo-strain-induced-magnetoresistance-modulation) 124, no. 11 (2024).
 
-(J6) Vinit Kumar Yadav, **Pankaj Pathak**, Preetha Ganguly, Prashant Mishra, Samaresh Das, Dhiman Mallick. "*Infrared-Driven Rapid Quantification of Magnetophoretically Trapped Drug.*"[**IEEE Journal of Microelectromechanical Systems (Letters)**](https://ieeexplore.ieee.org/abstract/document/10444513) (2024)
+(J6) Vinit Kumar Yadav, **Pankaj Pathak**, Preetha Ganguly, Prashant Mishra, Samaresh Das, Dhiman Mallick. "*Infrared-Driven Rapid Quantification of Magnetophoretically Trapped Drug.*"[**IEEE Journal of Microelectromechanical Systems (Letters)**](https://ieeexplore.ieee.org/abstract/document/10444513) 33, no. 2 (2024): 127-129 
 
 (J5) **Pankaj Pathak**, Ajay Kumar, and Dhiman Mallick. "*Light-induced ferromagnetic resonance shift in magnetoelectric heterostructure.*" [**Physical Review Applied**](https://doi.org/10.1103/PhysRevApplied.20.044055) 20, no. 4 (2023): 044055.
 
