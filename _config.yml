@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Pankaj Pathak"
   avatar           : "abcdef.jpeg"
-  bio              : "Ph.D. Scholar at IIT Delhi"
-  location         : "New Delhi, India"
+  bio              : "Research Associate at University of Cambridge"
+  location         : "Cambridge, England"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=OeCwgzkAAAAJ&hl=en"
+  googlescholar    : #"https://scholar.google.com/citations?user=OeCwgzkAAAAJ&hl=en"
   email            : "pankaj.pathak112@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Pankaj-Pathak-8"
+  researchgate     : #"https://www.researchgate.net/profile/Pankaj-Pathak-8"
   uri              :
   bitbucket        :
   codepen          :
