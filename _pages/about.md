@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Thank you for visiting my website. I am a Postdoctoral Research Associate at the [Cavendish Laboratory](https://www.phy.cam.ac.uk/), University of Cambridge. My research is primarly focused on spintronics and magnetism. At Cambridge, I am working on Superconducting Spintronics with the group of Prof. [Chiara Ciccarelli](https://www.ciccarelli.phy.cam.ac.uk/). 
+Thank you for visiting my website. 
 
-Prior to this, I completed my Ph.D. at IIT Delhi, India, under the guidance of Prof. [Dhiman Mallick](https://sites.google.com/site/dhimanmallick). My doctoral research was centered on magnetoelectric-based spintronic and Lab-on-a-chip devices.
-
+<p>
+  I am a Postdoctoral Research Associate at the University of Cambridge, specializing in spintronics and magnetism. I earned my Ph.D. in Electrical Engineering from IIT Delhi, where my research focused on magnetoelectric-based spintronic and Lab-on-a-Chip devices. Currently, I work in the <a href="https://www.ciccarelli.phy.cam.ac.uk/">Ciccarelli Group</a> at the <a href="https://www.phy.cam.ac.uk/">Cavendish Laboratory</a>, focusing on Superconducting Spintronics.
+</p>
 
