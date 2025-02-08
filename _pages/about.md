@@ -18,7 +18,6 @@ redirect_from:
     Currently, I am working with <a href="https://www.ciccarelli.phy.cam.ac.uk/">Prof. Chiara Ciccarelli</a> at the 
     <a href="https://www.phy.cam.ac.uk/">Cavendish Laboratory</a>, focusing on superconducting spintronics.
   </p>
-</div>
 
 <div style="width: 100%; display: flex; justify-content: space-between; align-items: center; padding: 20px;">
   <a href="https://www.cam.ac.uk/" target="_blank">
