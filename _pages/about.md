@@ -23,7 +23,7 @@ redirect_from:
   </div>
 
   <!-- Right Part: Logos aligned in vertical gap -->
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 40px;">
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 30px;">
     <img src="/images/l1.jpg" alt="Logo 1" style="width: 200px;">
     <img src="/images/l2.jpg" alt="Logo 2" style="width: 200px;">
     <img src="/images/l3.jpg" alt="Logo 3" style="width: 200px;">
