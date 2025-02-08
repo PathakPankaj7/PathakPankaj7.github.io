@@ -7,7 +7,6 @@ author_profile: true
 
 <style>
   .archive {
-    text-align: justify;
     font-family: "Arial", sans-serif; /* Clean and professional font */
     font-weight: 300; /* Thin text style */
     max-width: 900px; /* Maintains the original page width */
