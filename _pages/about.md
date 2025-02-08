@@ -30,6 +30,6 @@ redirect_from:
 
 <div style="text-align: center; padding: 20px;">
   <a href="https://home.iitd.ac.in/" target="_blank">
-    <img src="/images/i3.png" alt="Logo 3" style="width: 330px;">
+    <img src="/images/i3(1).png" alt="Logo 3" style="width: 330px;">
   </a>
 </div>
