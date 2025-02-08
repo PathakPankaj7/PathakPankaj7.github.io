@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-<div style="text-align: center;">
+<div style="text-align: justify;">
   <p>Thank you for visiting my website.</p>
   <p style="text-align: justify;">
     I am a Postdoctoral Research Associate at the University of Cambridge, specializing in spintronics and magnetism. I received my Ph.D. in Electrical Engineering under the supervision of 
