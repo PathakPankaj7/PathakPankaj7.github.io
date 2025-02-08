@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+<style>
+  .archive {
+    text-align: justify;
+  }
+</style>
+
 ## 2024
 
 **Photo-strain induced magnetoresistance modulation in magnetoelectric heterostructure-based devices.**  
@@ -59,5 +65,3 @@ Dibyajyoti Mukherjee, Shalini Singh, Nadeem Tariq Beigh, Sourav Naval, **[Pankaj
 **Size-dependent magnetization switching in magnetoelectric heterostructures for self-biased MRAM applications.**  
 **[Pankaj Pathak](https://doi.org/10.1109/TED.2021.3088079)**, and Dhiman Mallick  
 2021 | Journal article | [IEEE Transactions on Electron Devices](https://doi.org/10.1109/TED.2021.3088079)  
-
----
