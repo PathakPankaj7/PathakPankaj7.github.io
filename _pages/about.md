@@ -9,13 +9,11 @@ redirect_from:
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 40px;">
-Thank you for visiting my website.
+
   <!-- Left Part: Introduction text -->
   <div style="flex: 1; text-align: justify;">
+    Thank you for visiting my website.
     <p>
-      
-
-      
       I am a Postdoctoral Research Associate at the University of Cambridge, specializing in spintronics and magnetism. I received my Ph.D. in Electrical Engineering under the supervision of 
       <a href="https://sites.google.com/site/dhimanmallick/home">Prof. Dhiman Mallick</a> at 
       <a href="https://home.iitd.ac.in/">IIT Delhi</a>, where my research focused on magnetoelectric-based spintronic and Lab-on-a-Chip devices. 
