@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 40px;">
-
+Thank you for visiting my website.
   <!-- Left Part: Introduction text -->
   <div style="flex: 1; text-align: justify;">
     <p>
-      Thank you for visiting my website.
+      
 
       
       I am a Postdoctoral Research Associate at the University of Cambridge, specializing in spintronics and magnetism. I received my Ph.D. in Electrical Engineering under the supervision of 
