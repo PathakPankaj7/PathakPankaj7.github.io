@@ -24,6 +24,6 @@ redirect_from:
     <img src="/images/l1.jpg" alt="Logo 1" style="width: 300px;">
   </a>
   <a href="https://www.phy.cam.ac.uk/" target="_blank">
-    <img src="/images/l2.jpeg" alt="Logo 2" style="width: 300px;">
+    <img src="/images/l2.jpeg" alt="Logo 2" style="width: 330px;">
   </a>
 </div>
