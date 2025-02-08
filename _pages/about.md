@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="max-width: 900px; margin: 0 auto; text-align: justify; background: rgba(255, 255, 255, 0.05); padding: 30px; border-radius: 10px; 
-  background-image: url('/images/b1.jpg'); background-size: cover; background-position: center; background-attachment: fixed;">
+
 
   <p>Thank you for visiting my website.</p>
   <p>
@@ -28,4 +27,4 @@ redirect_from:
   <a href="https://www.phy.cam.ac.uk/" target="_blank">
     <img src="/images/l2.jpeg" alt="Logo 2" style="width: 330px;">
   </a>
-</div>
+
