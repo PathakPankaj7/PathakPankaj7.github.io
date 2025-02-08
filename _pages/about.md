@@ -18,7 +18,7 @@ Thank you for visiting my website.
     <a href="https://www.phy.cam.ac.uk/">Cavendish Laboratory</a>, focusing on superconducting spintronics.
 </p>
 
-<div style="margin-top: 40px; display: flex; justify-content: space-between; gap: 10px;">
+<div style="margin-top: 40px; display: flex; justify-content: space-between; gap: 0px;">
   <img src="/images/l1.jpg" alt="Logo 1" style="width: 100px;">
   <img src="/images/l2.jpg" alt="Logo 2" style="width: 100px;">
   <img src="/images/l3.jpg" alt="Logo 3" style="width: 100px;">
