@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-<link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@400;700&family=Roboto+Slab:wght@400;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@300;400&family=Roboto+Slab:wght@300;400&display=swap" rel="stylesheet">
 
 <style>
   body {
     font-family: 'Roboto Slab', serif;
+    font-weight: 300;  /* Thinner text for body */
     background: rgba(255, 255, 255, 0.85);
     margin: 0;
     padding: 0;
@@ -20,7 +21,7 @@ redirect_from:
 
   h1, h2, h3, h4, h5, h6 {
     font-family: 'Libre Franklin', sans-serif;
-    font-weight: 700;
+    font-weight: 400;  /* Lighter weight for headings */
   }
 
   .content-container {
