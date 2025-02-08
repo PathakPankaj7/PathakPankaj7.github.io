@@ -8,42 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@300;400&family=Roboto+Slab:wght@300;400&display=swap" rel="stylesheet">
-
-<style>
-  body {
-    font-family: 'Roboto Slab', serif;
-    font-weight: 300;  /* Thinner text for body */
-    background: rgba(255, 255, 255, 0.85);
-    margin: 0;
-    padding: 0;
-  }
-
-  h1, h2, h3, h4, h5, h6 {
-    font-family: 'Libre Franklin', sans-serif;
-    font-weight: 400;  /* Lighter weight for headings */
-  }
-
-  .content-container {
-    max-width: 900px;
-    margin: 0 auto;
-    text-align: justify;
-    background: rgba(255, 255, 255, 0.85);
-    padding: 30px;
-    border-radius: 10px;
-  }
-
-  .logo-container {
-    width: 100%;
-    display: flex;
-    justify-content: flex-start;
-    padding: 20px;
-  }
-
-  .logo-container img {
-    width: 250px;
-  }
-</style>
 
 <div class="content-container">
   <p>Thank you for visiting my website.</p>
