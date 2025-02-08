@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
 <div style="text-align: justify;">
   <p>Thank you for visiting my website.</p>
   <p style="text-align: justify;">
@@ -26,5 +25,11 @@ redirect_from:
   </a>
   <a href="https://www.phy.cam.ac.uk/" target="_blank">
     <img src="/images/l2.jpeg" alt="Logo 2" style="width: 330px;">
+  </a>
+</div>
+
+<div style="text-align: center; padding: 20px;">
+  <a href="https://home.iitd.ac.in/" target="_blank">
+    <img src="/images/i3.jpg" alt="Logo 3" style="width: 300px;">
   </a>
 </div>
