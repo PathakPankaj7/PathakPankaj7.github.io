@@ -21,9 +21,9 @@ redirect_from:
 
 <div style="width: 100%; display: flex; justify-content: space-between; align-items: center; padding: 20px;">
   <a href="https://www.cam.ac.uk/" target="_blank">
-    <img src="/images/l1.jpg" alt="Logo 1" style="width: 250px;">
+    <img src="/images/l1.jpg" alt="Logo 1" style="width: 300px;">
   </a>
   <a href="https://www.phy.cam.ac.uk/" target="_blank">
-    <img src="/images/l2.jpg" alt="Logo 2" style="width: 250px;">
+    <img src="/images/l2.jpg" alt="Logo 2" style="width: 300px;">
   </a>
 </div>
