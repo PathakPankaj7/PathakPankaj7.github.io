@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 40px;">
 
-  <!-- Left Part: Introduction text -->
-  <div style="flex: 1; text-align: justify;">
-    Thank you for visiting my website.
+  
+  <div style="max-width: 900px; margin: 0 auto; text-align: justify; background: rgba(255, 255, 255, 0.85); padding: 30px; border-radius: 10px;">
+    <p>Thank you for visiting my website.</p>
     <p>
       I am a Postdoctoral Research Associate at the University of Cambridge, specializing in spintronics and magnetism. I received my Ph.D. in Electrical Engineering under the supervision of 
       <a href="https://sites.google.com/site/dhimanmallick/home">Prof. Dhiman Mallick</a> at 
@@ -22,10 +21,8 @@ redirect_from:
     </p>
   </div>
 
-  <!-- Right Part: Logos aligned in vertical gap -->
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 30px;">
-    <img src="/images/l1.jpg" alt="Logo 1" style="width: 250px;">
-    <img src="/images/l2.jpg" alt="Logo 2" style="width: 250px;">
+  <div style="width: 100%; display: flex; justify-content: flex-start; padding: 20px;">
+    <img src="/images/l1.jpg" alt="Logo 1" style="width: 150px;">
   </div>
 
-</div> 
+</div>
