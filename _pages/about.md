@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 
-  
+
+
   <div style="max-width: 900px; margin: 0 auto; text-align: justify; background: rgba(255, 255, 255, 0.85); padding: 30px; border-radius: 10px;">
     <p>Thank you for visiting my website.</p>
     <p>
@@ -21,8 +22,9 @@ redirect_from:
     </p>
   </div>
 
-  <div style="width: 100%; display: flex; justify-content: flex-start; padding: 20px; gap: 40px;">
+  
+  <div style="width: 100%; display: flex; justify-content: flex-start; padding: 20px;">
     <img src="/images/l1.jpg" alt="Logo 1" style="width: 250px;">
-    <img src="/images/l2.jpg" alt="Logo 2" style="width: 250px;">
   </div>
+
 
