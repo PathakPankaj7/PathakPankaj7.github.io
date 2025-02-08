@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<div style="max-width: 900px; margin: 0 auto; text-align: justify; background: rgba(255, 255, 255, 0.85); padding: 30px; border-radius: 10px;">
+<div style="max-width: 900px; margin: 0 auto; text-align: justify; background: rgba(255, 255, 255, 0.85); padding: 30px; border-radius: 10px; 
+  background-image: url('/images/b1.jpg'); background-size: cover; background-position: center; background-attachment: fixed;">
+
   <p>Thank you for visiting my website.</p>
   <p>
     I am a Postdoctoral Research Associate at the University of Cambridge, specializing in spintronics and magnetism. I received my Ph.D. in Electrical Engineering under the supervision of 
