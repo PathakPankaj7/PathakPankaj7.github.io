@@ -23,7 +23,7 @@ redirect_from:
   
   <div style="display: flex; flex-direction: column; align-items: center;">
     <a href="https://www.cam.ac.uk/" target="_blank" style="margin-bottom: 20px;">
-      <img src="/images/l1.jpg" alt="Logo 1" style="width: 250px;">
+      <img src="/images/l1.jpg" alt="Logo 1" style="width: 300px;">
     </a>
     <a href="https://home.iitd.ac.in/" target="_blank">
       <img src="/images/i1.png" alt="Logo 3" style="width: 350px;">
