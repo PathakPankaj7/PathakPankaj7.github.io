@@ -7,13 +7,9 @@ author_profile: true
 
 ## 2024
 
-**A Metglas Based Magneto-Triboelectric Energy Harvesting Device for Biomedical Applications.**  
-Dibyajyoti Mukherjee, Shalini Singh, Nadeem Tariq Beigh, Sourav Naval, **[Pankaj Pathak](https://ieeexplore.ieee.org/document/10638456)**, Ankur Goswami, and Dhiman Mallick  
-2024 | Journal article | [IEEE Sensors Journal](https://ieeexplore.ieee.org/document/10638456)  
-
 **Photo-strain induced magnetoresistance modulation in magnetoelectric heterostructure-based devices.**  
-**[Pankaj Pathak](https://pubs.aip.org/aip/apl/article/124/11/112401/3270349/Photo-strain-induced-magnetoresistance-modulation)**, Ajay Kumar, and Dhiman Mallick  
-October 2024 | Journal article | [Applied Physics Letters](https://pubs.aip.org/aip/apl/article/124/11/112401/3270349/Photo-strain-induced-magnetoresistance-modulation)  
+**Pankaj Pathak**, Ajay Kumar, and Dhiman Mallick  
+2024 | Journal article | [Applied Physics Letters](https://pubs.aip.org/aip/apl/article/124/11/112401/3270349/Photo-strain-induced-magnetoresistance-modulation) 
 
 **Infrared-Driven Rapid Quantification of Magnetophoretically Trapped Drug.**  
 Vinit Kumar Yadav, **[Pankaj Pathak](https://ieeexplore.ieee.org/abstract/document/10444513)**, Preetha Ganguly, Prashant Mishra, Samaresh Das, Dhiman Mallick  
@@ -22,6 +18,10 @@ Vinit Kumar Yadav, **[Pankaj Pathak](https://ieeexplore.ieee.org/abstract/docume
 **Light-Induced Static and Dynamic Magnetization Modulation in Magnetoelectric Heterostructure for Beyond-CMOS Devices.**  
 **[Pankaj Pathak](https://ieeexplore.ieee.org/abstract/document/10512272)**, Ajay Kumar, and Dhiman Mallick  
 2024 | Conference paper | [IEEE 8th Electron Devices Technology & Manufacturing Conference](https://ieeexplore.ieee.org/abstract/document/10512272)  
+
+**A Metglas Based Magneto-Triboelectric Energy Harvesting Device for Biomedical Applications.**  
+Dibyajyoti Mukherjee, Shalini Singh, Nadeem Tariq Beigh, Sourav Naval, **[Pankaj Pathak](https://ieeexplore.ieee.org/document/10638456)**, Ankur Goswami, and Dhiman Mallick  
+2024 | Journal article | [IEEE Sensors Journal](https://ieeexplore.ieee.org/document/10638456)  
 
 ---
 
