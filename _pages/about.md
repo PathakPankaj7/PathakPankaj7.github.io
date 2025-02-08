@@ -10,7 +10,7 @@ redirect_from:
 
 Thank you for visiting my website. 
 
-<p>
+<pstyle="text-align: justify;">
     I am a Postdoctoral Research Associate at the University of Cambridge, specializing in spintronics and magnetism. I received my Ph.D. in Electrical Engineering under the supervision of 
     <a href="https://sites.google.com/site/dhimanmallick/home">Prof. Dhiman Mallick</a> at 
     <a href="https://home.iitd.ac.in/">IIT Delhi</a>, where my research focused on magnetoelectric-based spintronic and Lab-on-a-Chip devices. 
