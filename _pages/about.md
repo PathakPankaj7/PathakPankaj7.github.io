@@ -32,7 +32,7 @@ redirect_from:
 
   
   <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="/images/c1 (1).jpg" alt="Logo C1" style="width: 180px;">
+      <img src="/images/c1 (1).jpg" alt="Logo C1" style="width: 130px;">
     <a href="https://www.phy.cam.ac.uk/" target="_blank">
       <img src="/images/l2.jpeg" alt="Logo 2" style="width: 270px;">
     </a>
