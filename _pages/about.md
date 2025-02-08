@@ -24,7 +24,7 @@ redirect_from:
 
   
   <div style="width: 100%; display: flex; justify-content: flex-start; padding: 20px;">
-    <img src="/images/l1.jpg" alt="Logo 1" style="width: 250px;">
+    <img src="/images/ll1.jpg" alt="Logo 1" style="width: 250px;">
   </div>
 
 
