@@ -8,7 +8,7 @@ author_profile: true
 ## 2024
 
 **Photo-strain induced magnetoresistance modulation in magnetoelectric heterostructure-based devices.**  
-**Pankaj Pathak**, Ajay Kumar, and Dhiman Mallick  
+**[Pankaj Pathak](https://pubs.aip.org/aip/apl/article/124/11/112401/3270349/Photo-strain-induced-magnetoresistance-modulation)**, Ajay Kumar, and Dhiman Mallick  
 2024 | Journal article | [Applied Physics Letters](https://pubs.aip.org/aip/apl/article/124/11/112401/3270349/Photo-strain-induced-magnetoresistance-modulation) 
 
 **Infrared-Driven Rapid Quantification of Magnetophoretically Trapped Drug.**  
