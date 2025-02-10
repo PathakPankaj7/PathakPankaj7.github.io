@@ -16,6 +16,7 @@ author_profile: true
 **Pankaj Pathak**, Vinit Kumar Yadav, and Dhiman Mallick  
 2025 | Journal article | Applied Physics Letters 
 
+---
 
 ## 2024
 
