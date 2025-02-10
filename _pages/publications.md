@@ -63,7 +63,7 @@ Dibyajyoti Mukherjee, Shalini Singh, Nadeem Tariq Beigh, Sourav Naval, **[Pankaj
 **Straintronic nanomagnetic logic using self-biased dipole coupled elliptical nanomagnets.**  
 **[Pankaj Pathak](https://doi.org/10.1109/TMAG.2022.3199589)**, and Dhiman Mallick  
 2022 | Journal article | [IEEE Transactions on Magnetics](https://doi.org/10.1109/TMAG.2022.3199589)  
-*Appeared as Journal Cover*  
+*[Appeared as Journal Cover](https://ieeexplore.ieee.org/abstract/document/9903018)*  
 
 ---
 
