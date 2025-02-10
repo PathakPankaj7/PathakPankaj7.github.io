@@ -25,16 +25,16 @@ redirect_from:
 
   <div style="display: flex; flex-direction: column; align-items: center; padding-left: 20px;">
     <a href="https://www.cam.ac.uk/" target="_blank" style="margin-bottom: 20px;">
-      <img src="/images/l1.jpg" alt="Logo 1" style="width: 320px;">
+      <img src="/images/l1.jpg" alt="Logo 1" style="width: 160px;">
     </a>
     <a href="https://home.iitd.ac.in/" target="_blank" style="margin-bottom: 20px;">
-      <img src="/images/i1.png" alt="Logo 3" style="width: 370px;">
+      <img src="/images/i1.png" alt="Logo 3" style="width: 170px;">
     </a>
     <a href="https://www.phy.cam.ac.uk/" target="_blank" style="margin-bottom: 20px;">
-      <img src="/images/c1 (1).jpg" alt="Logo C1" style="width: 150px;">
+      <img src="/images/c1 (1).jpg" alt="Logo C1" style="width: 200px;">
     </a>
     <a href="https://www.phy.cam.ac.uk/" target="_blank">
-      <img src="/images/l2.jpeg" alt="Logo 2" style="width: 290px;">
+      <img src="/images/l2.jpeg" alt="Logo 2" style="width: 190px;">
     </a>
   </div>
 </div>
