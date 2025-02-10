@@ -17,7 +17,6 @@ author_profile: true
 2025 | Journal article | Applied Physics Letters 
 
 
-
 ## 2024
 
 **Photo-strain induced magnetoresistance modulation in magnetoelectric heterostructure-based devices.**  
