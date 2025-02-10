@@ -24,6 +24,18 @@ author_profile: true
   .archive a:hover {
     text-decoration: underline;
   }
+
+  .archive h2 {
+    font-size: 20px;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+  }
+
+  .archive p {
+    font-size: 18px;
+    font-weight: normal;
+    text-align: justify;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+  }
 </style>
 
 ## 2025
