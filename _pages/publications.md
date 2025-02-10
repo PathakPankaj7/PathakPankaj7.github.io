@@ -11,9 +11,11 @@ author_profile: true
     font-family: 'Helvetica Neue', Arial, sans-serif;
     line-height: 1.6;
     color: #333333;
-    max-width: 900px;
-    margin: 0 auto;
-    padding: 20px;
+    max-width: 900px; /* Adjust max-width as needed */
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10px; /* Reduced left padding */
+    padding-right: 10px; /* Added right padding for symmetry */
   }
 
   .archive a {
@@ -23,18 +25,6 @@ author_profile: true
 
   .archive a:hover {
     text-decoration: underline;
-  }
-
-  .archive h2 {
-    font-size: 20px;
-    font-family: 'Helvetica Neue', Arial, sans-serif;
-  }
-
-  .archive p {
-    font-size: 18px;
-    font-weight: normal;
-    text-align: justify;
-    font-family: 'Helvetica Neue', Arial, sans-serif;
   }
 </style>
 
