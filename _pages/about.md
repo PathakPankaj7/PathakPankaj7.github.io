@@ -11,11 +11,13 @@ redirect_from:
 <div style="text-align: justify;">
   <p>Thank you for visiting my website.</p>
   <p style="text-align: justify;">
-    I am a Postdoctoral Research Associate at the University of Cambridge, specializing in spintronics and magnetism. I received my Ph.D. in Electrical Engineering under the supervision of 
-    <a href="https://sites.google.com/site/dhimanmallick/home">Prof. Dhiman Mallick</a> at 
-    <a href="https://home.iitd.ac.in/">IIT Delhi</a>, where my research focused on magnetoelectric-based spintronic and Lab-on-a-Chip devices. 
-    Currently, I am working under <a href="https://www.ciccarelli.phy.cam.ac.uk/">Prof. Chiara Ciccarelli</a> at the 
-    <a href="https://www.phy.cam.ac.uk/">Cavendish Laboratory</a>, focusing on superconducting spintronics.
+    I am a Postdoctoral Research Associate at the University of Cambridge, specializing in spintronics and magnetism. My research focuses on exploring novel physics and device applications in next-generation spintronic technologies. I earned my Ph.D. in Electrical Engineering from  
+<a href="https://home.iitd.ac.in/">IIT Delhi</a>, where I worked with  
+<a href="https://sites.google.com/site/dhimanmallick/home">Prof. Dhiman Mallick</a> in the Integrated Electronics and Circuits group. My doctoral research centered on magnetoelectric-based spintronic and Lab-on-a-Chip devices, aiming to develop energy-efficient and multifunctional magnetoelectric devices for sensing and computing applications.  
+
+Currently, I am part of the  
+<a href="https://www.phy.cam.ac.uk/">Cavendish Laboratory</a> at the University of Cambridge, working in the Microelectronics group with  
+<a href="https://www.ciccarelli.phy.cam.ac.uk/">Prof. Chiara Ciccarelli</a>. Currently, my work focuses on superconducting spintronics, exploring the interplay between superconductivity and magnetism to advance ultra-low-power computing devices.
   </p>
 </div>
 
