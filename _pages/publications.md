@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+<style>
+  .archive {
+    text-align: justify;
+  }
+</style>
 
 ## 2025
 **Voltage-controlled strain-mediated elliptical micro-magnetic motors for single magnetic bead manipulation.**  
