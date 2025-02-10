@@ -1,3 +1,4 @@
+---
 layout: archive
 title: ""
 permalink: /publications/
@@ -7,6 +8,21 @@ author_profile: true
 <style>
   .archive {
     text-align: justify;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    line-height: 1.6;
+    color: #333333;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+
+  .archive a {
+    color: #007A87;
+    text-decoration: none;
+  }
+
+  .archive a:hover {
+    text-decoration: underline;
   }
 </style>
 
