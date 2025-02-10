@@ -17,7 +17,7 @@ redirect_from:
 
 Currently, I am part of the  
 <a href="https://www.phy.cam.ac.uk/">Cavendish Laboratory</a> at the University of Cambridge, working in the Microelectronics group with  
-<a href="https://www.ciccarelli.phy.cam.ac.uk/">Prof. Chiara Ciccarelli</a>. Currently, my work focuses on superconducting spintronics, exploring the interplay between superconductivity and magnetism to advance ultra-low-power computing devices.
+<a href="https://www.ciccarelli.phy.cam.ac.uk/">Prof. Chiara Ciccarelli</a>. At Cambridge, my work focuses on superconducting spintronics, exploring the interplay between superconductivity and magnetism to advance ultra-low-power computing devices.
   </p>
 </div>
 
