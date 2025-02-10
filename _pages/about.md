@@ -16,7 +16,7 @@ redirect_from:
 <a href="https://sites.google.com/site/dhimanmallick/home">Prof. Dhiman Mallick</a> in the Integrated Electronics and Circuits group. My doctoral research centered on magnetoelectric-based spintronic and Lab-on-a-Chip devices, aiming to develop energy-efficient and multifunctional magnetoelectric devices for sensing and computing applications.  
 
 Currently, I am part of the  
-<a href="https://www.phy.cam.ac.uk/">Cavendish Laboratory</a> at the University of Cambridge, working in the Microelectronics group with  
+<a href="https://www.phy.cam.ac.uk/">Cavendish Laboratory</a> at the <a href="https://www.cam.ac.uk/">University of Cambridge</a>, working in the Microelectronics group with  
 <a href="https://www.ciccarelli.phy.cam.ac.uk/">Prof. Chiara Ciccarelli</a>. At Cambridge, my work focuses on superconducting spintronics, exploring the interplay between superconductivity and magnetism to advance ultra-low-power computing devices.
   </p>
 </div>
