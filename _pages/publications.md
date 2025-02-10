@@ -11,6 +11,13 @@ author_profile: true
   }
 </style>
 
+## 2025
+**Voltage-controlled strain-mediated elliptical micro-magnetic motors for single magnetic bead manipulation.**  
+**Pankaj Pathak**, Vinit Kumar Yadav, and Dhiman Mallick  
+2025 | Journal article | Applied Physics Letters 
+
+
+
 ## 2024
 
 **Photo-strain induced magnetoresistance modulation in magnetoelectric heterostructure-based devices.**  
