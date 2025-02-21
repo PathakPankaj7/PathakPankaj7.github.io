@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="font-family: 'Helvetica Neue', Arial, sans-serif; line-height: 1.6; color: #333333; max-width: 900px; margin: 0 auto; padding: 20px; text-align: justify; font-size: 14px;">
+<div style="font-family: 'Helvetica Neue', Arial, sans-serif; line-height: 1.6; color: #333333; max-width: 900px; margin: 0 auto; padding: 20px; text-align: justify; font-size: 16px;">
   <p>Thank you for visiting my website.</p>
   <p>
     I am a Postdoctoral Research Associate at the University of Cambridge, specializing in spintronics and magnetism. My research focuses on exploring novel physics and device applications in next-generation spintronic technologies. I earned my Ph.D. in Electrical Engineering from  
