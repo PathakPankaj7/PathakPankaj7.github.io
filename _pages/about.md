@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="font-family: 'Helvetica Neue', Arial, sans-serif; line-height: 1.6; color: #333333; max-width: 900px; margin: 0 auto; padding: 20px; text-align: justify;">
+<div style="font-family: 'Helvetica Neue', Arial, sans-serif; line-height: 1.6; color: #333333; max-width: 900px; margin: 0 auto; padding: 20px; text-align: justify; font-size: 14px;">
   <p>Thank you for visiting my website.</p>
   <p>
     I am a Postdoctoral Research Associate at the University of Cambridge, specializing in spintronics and magnetism. My research focuses on exploring novel physics and device applications in next-generation spintronic technologies. I earned my Ph.D. in Electrical Engineering from  
@@ -22,7 +22,7 @@ redirect_from:
   </p>
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: center; padding: 20px;">
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 20px; font-size: 12px;">
   
   <div style="display: flex; flex-direction: column; align-items: center;">
     <a href="https://www.cam.ac.uk/" target="_blank" style="margin-bottom: 20px;">
@@ -33,7 +33,6 @@ redirect_from:
     </a>
   </div>
 
-  
   <div style="display: flex; flex-direction: column; align-items: center;">
       <img src="/images/c1 (1).jpg" alt="Logo C1" style="width: 150px;">
     <a href="https://www.phy.cam.ac.uk/" target="_blank">
