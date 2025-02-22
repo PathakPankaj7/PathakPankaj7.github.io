@@ -31,7 +31,7 @@ author_profile: true
 
 ## 2025
 **Voltage-controlled strain-mediated elliptical micro-magnetic motors for single magnetic bead manipulation.**  
-**[Pankaj Pathak](https://pubs.aip.org/aip/apl/article-abstract/126/7/074101/3336252/Voltage-controlled-strain-mediated-elliptical?redirectedFrom=fulltext)**, Vinit Kumar Yadav, and Dhiman Mallick  
+**Pankaj Pathak**, Vinit Kumar Yadav, and Dhiman Mallick  
 2025 | Journal article | *[Applied Physics Letters](https://pubs.aip.org/aip/apl/article-abstract/126/7/074101/3336252/Voltage-controlled-strain-mediated-elliptical?redirectedFrom=fulltext)*  
 
 ---
