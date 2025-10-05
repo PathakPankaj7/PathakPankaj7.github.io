@@ -16,7 +16,7 @@ author_profile: true
     margin-right: auto;
     padding-left: 10px; /* Reduced left padding */
     padding-right: 10px; /* Added right padding for symmetry */
-    font-size: 16px;
+    font-size: 14px;
   }
 
   .archive a {
