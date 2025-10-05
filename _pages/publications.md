@@ -31,9 +31,7 @@ author_profile: true
 
 ## 2025
 **Emerging magnetic phase in the orthoferrite HoFeO3 detected by spin Hall magnetoresistance and spin Seebeck effect.**
-
 M Basit, HG Giil, TWJ Metzger, O Alves Santos, F Johnson, **[P Pathak](https://journals.aps.org/prb/pdf/10.1103/q38x-g97c)**, M Hehn, S Mangin, A Brataas, AV Kimel, C Ciccarelli 
-
 2025 | Journal article | *[Physical Review B](https://journals.aps.org/prb/pdf/10.1103/q38x-g97c)*
 
 **Voltage-controlled strain-mediated elliptical micro-magnetic motors for single magnetic bead manipulation.**  
