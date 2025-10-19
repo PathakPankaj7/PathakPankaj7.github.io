@@ -30,6 +30,11 @@ author_profile: true
 </style>
 
 ## 2025
+**Strain-mediated Magnetoelectrics for Microfluidics Applications: Current Status and Future Perspectives.**  
+**[P. Pathak](https://doi.org/10.1063/5.0285155)**, V. K. Yadav, S. Das, and D. Mallick 
+2025 | Journal article | *[Applied Physics Letters](https://journals.aps.org/prb/pdf/10.1063/5.0285155)*  
+*[Perspective Article in The special issue:Strain-controlled Magnetism: From Fundamental Phenomena to Devices](https://journals.aps.org/prb/abstract/10.1063/5.0285155)*
+
 
 **Emerging magnetic phase in the orthoferrite HoFeO₃ detected by spin Hall magnetoresistance and spin Seebeck effect.**  
 M. Basit, H. G. Giil, T. W. J. Metzger, O. Alves Santos, F. Johnson, **[P. Pathak](https://journals.aps.org/prb/pdf/10.1103/q38x-g97c)**, M. Hehn, S. Mangin, A. Brataas, A. V. Kimel, C. Ciccarelli  
