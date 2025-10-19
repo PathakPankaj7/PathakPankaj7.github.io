@@ -31,7 +31,7 @@ author_profile: true
 
 ## 2025
 **Strain-mediated Magnetoelectrics for Microfluidics Applications: Current Status and Future Perspectives.**  
-**P. Pathak**, V. K. Yadav, S. Das, and D. Mallick  
+**P. Pathak**, V. K. Yadav, and D. Mallick  
 *[Applied Physics Letters](https://doi.org/10.1063/5.0285155)*  
 <span style="background-color:black; color:white; padding:3px 6px; border-radius:4px;">Perspective Article — Special Topic: Strain-controlled Magnetism: From Fundamental Phenomena to Devices</span>  
 
