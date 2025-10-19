@@ -39,7 +39,7 @@ author_profile: true
 **Emerging magnetic phase in the orthoferrite HoFeO₃ detected by spin Hall magnetoresistance and spin Seebeck effect.**  
 M. Basit, H. G. Giil, T. W. J. Metzger, O. Alves Santos, F. Johnson, **[P. Pathak](https://journals.aps.org/prb/pdf/10.1103/q38x-g97c)**, M. Hehn, S. Mangin, A. Brataas, A. V. Kimel, C. Ciccarelli  
 2025 | Journal article | *[Physical Review B](https://journals.aps.org/prb/pdf/10.1103/q38x-g97c)*  
-*[Editors' Suggestion](https://journals.aps.org/prb/abstract/10.1103/q38x-g97c)*
+<span style="background-color:black; color:white; padding:3px 6px; border-radius:4px;">Editors' Suggestion</span> 
 
 
 **Voltage-controlled strain-mediated elliptical micro-magnetic motors for single magnetic bead manipulation.**  
@@ -93,7 +93,7 @@ D. Mukherjee, S. Singh, N.T. Beigh, S. Naval, **[P. Pathak](https://ieeexplore.i
 **Straintronic nanomagnetic logic using self-biased dipole coupled elliptical nanomagnets.**  
 **[P. Pathak](https://doi.org/10.1109/TMAG.2022.3199589)**, and D. Mallick  
 2022 | Journal article | *[IEEE Transactions on Magnetics](https://doi.org/10.1109/TMAG.2022.3199589)*  
-*[Appeared as Journal Cover](https://ieeexplore.ieee.org/abstract/document/9903018)*  
+<span style="background-color:black; color:white; padding:3px 6px; border-radius:4px;">Appeared as Journal Cover</span>  
 
 ---
 
