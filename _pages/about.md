@@ -42,7 +42,7 @@ redirect_from:
   </a>
 
   <a href="https://home.iitd.ac.in/" target="_blank">
-    <img src="/images/trinity.png" alt="Trinity Logo" style="width: 250px;">
+    <img src="/images/trinity.png" alt="Trinity Logo" style="width: 200px;">
   </a>
 
 </div>
