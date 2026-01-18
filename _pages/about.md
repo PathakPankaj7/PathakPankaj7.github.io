@@ -24,22 +24,30 @@ redirect_from:
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 20px; font-size: 12px;">
   
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <a href="https://www.cam.ac.uk/" target="_blank" style="margin-bottom: 20px;">
-      <img src="/images/l1.jpg" alt="Logo 1" style="width: 320px;">
-    </a>
-    <a href="https://home.iitd.ac.in/" target="_blank">
-      <img src="/images/i1.png" alt="Logo 3" style="width: 370px;">
-    </a>
-  </div>
+  <div style="
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+">
 
-  <div style="display: flex; align-items: center; gap: 20px;">
-  <a href="https://www.cam.ac.uk/" target="_blank" style="margin-bottom: 20px;">
-      <img src="/images/Doc2 (1).jpg" alt="Logo 1" style="width: 350px;">
-    </a>
-    <a href="https://home.iitd.ac.in/" target="_blank">
-      <img src="/images/trinity.png" alt="Logo 3" style="width: 370px;">
-    </a>
+  <a href="https://www.cam.ac.uk/" target="_blank">
+    <img src="/images/l1.jpg" alt="Cambridge Logo" style="width: 320px;">
+  </a>
+
+  <a href="https://home.iitd.ac.in/" target="_blank">
+    <img src="/images/i1.png" alt="IITD Logo" style="width: 370px;">
+  </a>
+
+  <a href="https://www.cam.ac.uk/" target="_blank">
+    <img src="/images/Doc2 (1).jpg" alt="Document Logo" style="width: 350px;">
+  </a>
+
+  <a href="https://home.iitd.ac.in/" target="_blank">
+    <img src="/images/trinity.png" alt="Trinity Logo" style="width: 370px;">
+  </a>
+
+</div>
 
 </div>
 </div>
