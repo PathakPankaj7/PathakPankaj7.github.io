@@ -33,7 +33,7 @@ redirect_from:
     </a>
   </div>
 
-  <div style="display: flex; align-items: center; gap: 20px;">
+  <div style="display: flex; align-items: center; gap: 10px;">
   <img src="/images/c1 (1).jpg" alt="Logo C1" style="width: 50px;">
   <a href="https://www.phy.cam.ac.uk/" target="_blank">
     <img src="/images/l2.jpeg" alt="Logo 2" style="width: 290px;">
