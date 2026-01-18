@@ -18,7 +18,7 @@ redirect_from:
 
     Currently, I am part of the  
     <a href="https://www.phy.cam.ac.uk/" style="color: #007A87; text-decoration: none;">Cavendish Laboratory</a> at the <a href="https://www.cam.ac.uk/" style="color: #007A87; text-decoration: none;">University of Cambridge</a>, working in the <a href="https://www.me.phy.cam.ac.uk/" style="color: #007A87; text-decoration: none;">Microelectronics group</a> with  
-    <a href="https://www.ciccarelli.phy.cam.ac.uk/" style="color: #007A87; text-decoration: none;">Prof. Chiara Ciccarelli</a>, and I am an affiliated member of <a href="https://www.trin.cam.ac.uk/" style="color: #007A87; text-decoration: none;">Trinity College, Cambridge</a>. At Cambridge, my work focuses on superconducting spintronics, exploring the interplay between superconductivity and magnetism to advance ultra-low-power computing devices.
+    <a href="https://www.ciccarelli.phy.cam.ac.uk/" style="color: #007A87; text-decoration: none;">Prof. Chiara Ciccarelli</a>, and I am Postdoctoral affiliated member of <a href="https://www.trin.cam.ac.uk/" style="color: #007A87; text-decoration: none;">Trinity College, Cambridge</a>. At Cambridge, my work focuses on superconducting spintronics, exploring the interplay between superconductivity and magnetism to advance ultra-low-power computing devices.
   </p>
 </div>
 
@@ -45,9 +45,4 @@ redirect_from:
     <img src="/images/trinity.png" alt="Trinity Logo" style="width: 200px;">
   </a>
 
-</div>
-
-
-
-</div>
 </div>
