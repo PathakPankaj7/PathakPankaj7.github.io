@@ -35,13 +35,11 @@ redirect_from:
 
   <div style="display: flex; align-items: center; gap: 20px;">
   <a href="https://www.cam.ac.uk/" target="_blank" style="margin-bottom: 20px;">
-      <img src="/images/Doc2 (1).jpg" alt="Logo 1" style="width: 320px;">
+      <img src="/images/Doc2 (1).jpg" alt="Logo 1" style="width: 350px;">
     </a>
     <a href="https://home.iitd.ac.in/" target="_blank">
       <img src="/images/trinity.png" alt="Logo 3" style="width: 370px;">
     </a>
 
 </div>
-
-  </div>
 </div>
