@@ -42,7 +42,7 @@ redirect_from:
   </a>
 
   <a href="https://www.trin.cam.ac.uk/" target="_blank">
-    <img src="/images/trinity.png" alt="Trinity Logo" style="width: 200px;">
+    <img src="/images/trinity.png" alt="Trinity Logo" style="width: 180px;">
   </a>
 
 </div>
