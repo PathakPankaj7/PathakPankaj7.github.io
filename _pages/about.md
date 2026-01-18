@@ -37,11 +37,11 @@ redirect_from:
     <img src="/images/i1.png" alt="IITD Logo" style="width: 370px;">
   </a>
 
-  <a href="https://www.cam.ac.uk/" target="_blank">
+  <a href="https://www.phy.cam.ac.uk/" target="_blank">
     <img src="/images/Doc2 (1).jpg" alt="Document Logo" style="width: 320px;">
   </a>
 
-  <a href="https://home.iitd.ac.in/" target="_blank">
+  <a href="https://www.trin.cam.ac.uk/" target="_blank">
     <img src="/images/trinity.png" alt="Trinity Logo" style="width: 200px;">
   </a>
 
