@@ -40,11 +40,11 @@ redirect_from:
   </a>
 
   <a href="https://www.cam.ac.uk/" target="_blank">
-    <img src="/images/Doc2 (1).jpg" alt="Document Logo" style="width: 350px;">
+    <img src="/images/Doc2 (1).jpg" alt="Document Logo" style="width: 320px;">
   </a>
 
   <a href="https://home.iitd.ac.in/" target="_blank">
-    <img src="/images/trinity.png" alt="Trinity Logo" style="width: 280px;">
+    <img src="/images/trinity.png" alt="Trinity Logo" style="width: 250px;">
   </a>
 
 </div>
