@@ -29,6 +29,13 @@ author_profile: true
   }
 </style>
 
+## 2026
+
+**Programmable Spatiotemporal Microcluster Manipulation Using Integrated Magnetosonic Microfluidic Platform.**  
+V. K. Yadav, **P. Pathak**, S. Pal, S. Das, and D. Mallick  
+*[IEEE 39th International Conference on Micro Electro Mechanical Systems (MEMS)](https://ieeexplore.ieee.org/document/11419073)*  
+
+
 ## 2025
 **Strain-mediated Magnetoelectrics for Microfluidics Applications: Current Status and Future Perspectives.**  
 **P. Pathak**, V. K. Yadav, and D. Mallick  
