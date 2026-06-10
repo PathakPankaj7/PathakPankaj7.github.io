@@ -33,7 +33,7 @@ author_profile: true
 
 **Magnetoresistive Sensors for Emerging Applications: A Comparative Review of Device Performance and Design Trade-Offs.**
 Namita Bindal, **Pankaj Pathak**, Zainab Aziz, Ravish Kumar Raj, Shailendra Yadav, Sandeep Soni, Seema Dhull et al.
-*[IEEE Electron Devices Reviews (2026)](https://ieeexplore.ieee.org/abstract/document/11534056?casa_token=mwGic9uOiwYAAAAA:rvNSK9c5M2RZvNzwISaNJl2hKvNMfdr9mMzhdN8OvshJe5CjfDOFaWe877w_Ec834F8hFd0QcQ)*.
+*[IEEE Electron Devices Reviews (2026)](https://ieeexplore.ieee.org/abstract/document/11534056?casa_token=mwGic9uOiwYAAAAA:rvNSK9c5M2RZvNzwISaNJl2hKvNMfdr9mMzhdN8OvshJe5CjfDOFaWe877w_Ec834F8hFd0QcQ)*
 <span style="background-color:black; color:white; padding:3px 6px; border-radius:4px;">Equal Author </span>
 <span style="background-color:black; color:white; padding:3px 6px; border-radius:4px;">Invited Review Article </span>  
 
